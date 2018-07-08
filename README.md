@@ -3,11 +3,16 @@ EHT_timedomain_variability
 This uses python3.6 and jupyter notebooks. 
 
 Package requirements:
+
 jupyter notebook (in conda, or can pip install)
+
 eht-imaging (https://github.com/achael/eht-imaging)
+
 h5py (can pip install)
+
 emcee (can pip install)
-ffmpeg (optional)
+
+ffmpeg (optional) (https://ffmpeg.org/)
 
 ==============================
 
